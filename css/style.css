@@ -1,9 +1,4 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
+
 body{
 	padding:0;
 	margin:0;
@@ -1541,4 +1536,19 @@ button.btn-aasana-w3 {
 @media(max-width:375px) {
 	
 }
-/*-- //Responsive Design --*/
+.sbtn{
+    border: none;
+    padding: 13px;
+    width: 100%;
+    font-size: 15px;
+    outline: none;
+    text-transform: capitalize;
+    font-weight: 600;
+    letter-spacing: 1px;
+    background: #ef6926;
+    color: #fff;
+    border-radius: 0px;
+    -webkit-border-radius: 0px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
